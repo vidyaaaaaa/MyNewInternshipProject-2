@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><p><centre>KOHLI'S RESTAURANT</centre></p></title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <P><CENTRE><B><h1>KOHLI'S RESTAURANT</h1><B></CENTRE></P>
+ <I><h2>Heartly Wecomes You!</h2></I> 
+ <UL>
+    <li><H4>KOHLI'S RESTAURANT is in tirupati.From the moment you arrive,
+        you'll be swept away by the grandeour of our lobby,which features soaring ceilings,sparkling chandeliers,and rich marble flooring.
+        <b>our guest rooms and suite are equally luxurious,with plush bedding,lavish furnishings,and state of the art amentities.</H4></b>
+        
+    </li>
+ </UL>     
+        <nav>
+            <ul>
+                <li><a href="menu card.jpg">MENU</a></li>
+                <li><a href="food.jpg">FOOD</a></li>
+                <li><a href="table.jpg">TABLES</a></li>
+                <li><a href="Contact details.jpg">CONTACT US</a></li>
+            </ul>
+        </nav>
+    </header>
+    <footer>
+       <h3><p>**THANK YOU FOR VISITING**</h3></p>
+    </footer>
+</body>
+</html>
